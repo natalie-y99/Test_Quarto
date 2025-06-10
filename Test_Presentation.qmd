@@ -27,4 +27,4 @@ The `echo: false` option disables the printing of code (only output is displayed
 
 ## Greg's Contribution
 
-Here is some text. 
+Here is some text. Hello 
